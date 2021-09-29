@@ -1,2 +1,2 @@
-# ARK-TaskRound
-Submissions of ARK Task Round
+# Computer Vision
+A few simple projects using computer vision
